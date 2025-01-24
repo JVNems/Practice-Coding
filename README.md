@@ -1,2 +1,2 @@
-# Practice-Coding
-Sales data
+# Projects and learning in data science and analytics
+
